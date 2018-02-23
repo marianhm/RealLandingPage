@@ -1,0 +1,110 @@
+#hero {
+    /* height: 700px; */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(Image-back.png);
+    background-position: center;
+}
+
+/* .row {
+    width: 100%;
+    display: column;
+    justify-content: space-between;
+    align-items: center;
+} */
+
+/* img { */
+
+/* width: 400px; */
+
+/* background-size: contain; */
+
+/* } */
+
+.Logo {
+    width: 150px;
+    height: auto;
+    margin-top: 80px;
+}
+
+h1 {
+    font-family: helvetica;
+    text-align: center;
+    color: white;
+    font-size: 55px;
+    font-weight: bold;
+    line-height: 60px;
+    margin-top: 30px;
+    font-weight: bolder;
+}
+
+h3 {
+    font-family: sans-serif;
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    margin-top: 40px;
+    font-weight: lighter;
+}
+
+.btn-primary {
+    background-color: tomato;
+    font-size: 25px;
+    text-align: center;
+    margin: 10%;
+    width: 270px;
+    height: 60px;
+    line-height: 41px;
+    border: 0px;
+}
+
+h2 {
+    text-align: center;
+    font-weight: bold;
+    color: #070050;
+    font-size: 35px;
+}
+
+.icons {
+    text-align: center;
+    font-size: 10px;
+    text-justify: auto;
+    align-self: baseline;
+}
+
+footer {
+    height: 100px;
+    margin-top: 20px;
+    background-color: #070050;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+
+#icon1 {
+    height: 60px;
+}
+
+#icon2 {
+    height: 90px;
+}
+
+#icon3 {
+    height: 60px;
+}
+
+h6 {
+    color: #070050;
+    font-size: 14px;
+    text-align: center;
+}
+
+.d-flex {
+    flex-direction: row;
+}
+
+.icons {
+    margin: 20px;
+}
